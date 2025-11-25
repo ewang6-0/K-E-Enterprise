@@ -1,0 +1,25 @@
+body
+{
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+nav a
+{
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+.gallery
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.gallery img
+{
+  width: 220px;
+  margin:8px;
+  border-radius: 8px;
+}
+
+  
