@@ -14,7 +14,46 @@
 <h1 style="background-color; color: black; text-align: center; font-size: 250%; font-family: time new roman;"><b>Real Estate Portfolio</b></h1>
 <p>Hello there!!! Welcome to my Estate where you can secure your 'HOME' Today!</p>
 <p>Showcasing houses and offering customers affordable prices to secure their home.</p>
-<div class="gallery"
+<h3>Nice View? Great Option</h3>
+<div class="gallery">
+   <img src="photography/1.JPG">
+   <img src="photography/1.interior.jpg">
+</div>
+<h3>Need an affordable home with a nice interior? This is a good option!!</h3>
+ <div class="gallery">
+<img src="photography/2.JPG">
+<img src="photography/2.interior.jpg">
+</div>
+
+<h3>Need A Perfect Home? Great Choice!!</h3>
+<div class="gallery">
+<img src="photography/3.JPG">
+<img src="photography/3.interior.jpg">
+</div>
+
+<h3>This is the Perfect home for any newlywed.</h3>
+<div class="gallery">
+<img src="photography/4.JPG">
+<img src="photography/4.interior.jpg"
+
+</div>
+
+<div class="gallery">
+<img src="photography/5.JPG">
+<img src="photography/5.interior
+
+</div>
+
+
+
+
+
+
+
+
+    
+
+
 
 
 
