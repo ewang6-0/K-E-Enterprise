@@ -17,5 +17,21 @@ nav a{
   margin:8px;
   border-radius: 8px;
 }
+.team{
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+.person{
+  text-align: center;
+  width: 200px;
+}
+.profile{
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
 
   
