@@ -138,8 +138,8 @@ nav a{
 }
 
 .fullwidth-img{
-  width:50% !important;
-  max-width: 400px !important;
+  width:90% !important;
+  max-width: 300px !important;
   display: block !important;
   margin: 15px auto !important;
   border-radius: 10px !important;
