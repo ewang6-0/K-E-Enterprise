@@ -83,8 +83,8 @@ nav a{
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 .team-photo{
-  width:120px;
-  height:120px;
+  width:150px;
+  height:150px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #ccc;
@@ -108,8 +108,8 @@ nav a{
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 .contact-photo{
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #ccc;
