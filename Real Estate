@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
 <meta charset="UTF-8">
-
 <title>Real Estate</title>
+<link rel=stylesheet" href="style.css">
 </head>
 <body>
+  <nav>
 <a href="index.html">Hme</a>
 <a href="real-estate.html">Real Estate</a>
 <a href="about.html">About</a>
 <a href="photography.html">Photograhpy</a>
 <a href="contact.html">Contact</a>
-<h1 style="background-color; color: black; text-align: center; font-size: 250%; font-family: time new roman;"><b>Real Estate Portfolio</b></h1>
+</nav>
+<h1>Real Estate Portfolio</h1>
 <p>Hello there!!! Welcome to my Estate where you can secure your 'HOME' Today!</p>
 <p>Showcasing houses and offering customers affordable prices to secure their home.</p>
+<b></b>
 <h3>Nice View? Great Option</h3>
 <div class="gallery">
    <img src="photography/1.JPG">
@@ -47,39 +50,5 @@
 <h3>||2 bedroom, 1 bathroom|| $245,800</h3>
 </div>
 
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </html>
