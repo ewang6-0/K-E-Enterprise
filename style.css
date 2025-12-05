@@ -138,11 +138,11 @@ nav a{
 }
 
 .fullwidth-img{
-  width:80%
-  max-width: 500px;
-  display: block;
-  margin: 15px auto;
-  border-radius: 10px;
+  width:80% !important;
+  max-width: 500px !important;
+  display: block !important;
+  margin: 15px auto !important;
+  border-radius: 10px !important;
 }
 .real-estate-title{
   font-size: 26px;
